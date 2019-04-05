@@ -39,21 +39,21 @@ Enjoy this amazing open source browser based role playing multiplayer 2D game!
 
 And a big thank you to the original developers is in order! THANK YOU!
 
+
 Server configuration
 ============
-CentOS 6.4
-Node.Js v6.17.0
-npm package version
-"log": "1.4.0"
-"socket.io": "1.7.4"
-"sanitizer": "0.1.2"
-"memcache": "0.3.0"
-
-查看log所有版本信息
-npm info log
-查看log本地版本信息
-npm ls log
-npm ls log -g
+ * CentOS 6.4
+ * Node.Js v6.17.0
+ * npm package version
+ * "log": "1.4.0"
+ * "socket.io": "1.7.4"
+ * "sanitizer": "0.1.2"
+ * "memcache": "0.3.0"
+ * 查看log所有版本信息
+ * npm info log
+ * 查看log本地版本信息
+ * npm ls log
+ * npm ls log -g
 
 HOW TO RUN?
 ============
