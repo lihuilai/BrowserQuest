@@ -68,6 +68,9 @@ node server/js/main.js
 Then go inside the Client folder and open index.html.
 
 You might want to use a webserver and open index.html from there.
+快速搭建本地服务器
+npm install anywhere -g
+client-build文件夹下运行anywhere 8080
 
 Also read the original README files you'll find inside the Client and Server folders to learn the basics of configuring (it's preconfigured right now).
 
